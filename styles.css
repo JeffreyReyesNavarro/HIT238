@@ -1,0 +1,22 @@
+.Sec__container {
+  padding: 20px;
+  margin: 0;
+  border: 0;
+}
+
+.Sec__title {
+  font-size: 100px;
+  font-weight: bold;
+  padding: 10px;
+  text-align: center;
+}
+
+.Sec__list {
+  padding: 0;
+  margin: 0;
+}
+
+.Sec__lists {
+  list-style: none;
+  font-size: 30px;
+}
