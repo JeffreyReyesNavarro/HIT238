@@ -1,0 +1,32 @@
+.menu__banner {
+    text-align: center;
+    padding: 3rem;
+}
+
+.menu__buttons a {
+    text-decoration: none;
+    display: block;
+    list-style: none;
+    text-align: center;
+    padding: 3rem;
+    border: 1px solid #AAABB8;
+     margin: 1rem;
+}
+
+/* reminder */
+
+.reminder__banner {
+    text-align: center;
+}
+
+.reminder__form {
+    text-align: center;
+    padding: 2rem;
+}
+
+.reminder__task,
+.reminder__date {
+    padding: 4rem;
+    margin: 1rem;
+    border: 1px solid #AAABB8;
+}
